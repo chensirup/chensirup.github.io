@@ -3,7 +3,7 @@ layout: post
 title:  "3个微习惯，让你更自由"
 date:   2017-02-02 23:33:33
 categories: 习惯
-tags: 微习惯 自律 自由
+tags: 微习惯 自律 自由 改变
 author: 陈sir
 excerpt: 用最小行动养成微习惯，让自己更自律，更自由。
 ---
