@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Chensir
-brief-intro: 开智-进化论
+title: 陳sir
+brief-intro: 進化論
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chensirup.github.io" # the base hostname & protocol for your site
 
@@ -18,12 +18,12 @@ twitter_username:
 facebook_username: 
 github_username:  chensirup
 email: czq.1326@163.com
-weibo_username: Amoy陈sir
-zhihu_username: 陈sir
+weibo_username: chencely@sina.cn
+zhihu_username: chen-sir-25-20
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 记录自我进化成长脚步！
+description_footer: 成长进化乐园！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
