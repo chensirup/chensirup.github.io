@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 陳sir
-brief-intro: 進化論
+title: 陈sir
+brief-intro: 成长进化乐园
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chensirup.github.io" # the base hostname & protocol for your site
 
