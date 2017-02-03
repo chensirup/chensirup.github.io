@@ -9,23 +9,27 @@ type: page
 * content
 {:toc}
 
-## 关于我
+### 关于我
 
 艾奇学院联合创始人
+
 个人成长教练
+
 职业生涯咨询师
+
 企业培训师
+
 百度高级营销培训师
 
 
-## 联系我
+### 联系我
 
 * [简书](http://www.jianshu.com/u/df3225ae5eb0)
 * [Weibo](http://weibo.com/imchensir)
 * [微信](https://mp.weixin.qq.com/s/y/24Acuz6zhoJZiKnMnBCkNg)
 * email：czq.1326@163.com
 
-## 关于本站
+### 关于本站
 
 **记录分享**
 
