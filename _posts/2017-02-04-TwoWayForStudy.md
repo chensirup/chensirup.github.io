@@ -5,7 +5,7 @@ date:   2017-02-04 23:33:33
 categories: 学习
 tags: 学习 方法
 author: 陈sir
-excerpt: **正是因为不懂才要去学习。正是因为很难才值得学习。**
+excerpt: 正是因为不懂才要去学习。正是因为很难才值得学习。
 ---
 
 * content
