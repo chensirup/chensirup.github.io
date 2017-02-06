@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "做好知识管理，让你更自由"
-date:   2017-02-04 23:33:33
+date:   2017-02-05 23:33:33
 categories: 知识
 tags: 知识管理 学习
 author: 陈sir
-excerpt: 做好
+excerpt: 做好知识管理，节省时间，降低沟通成本，提高效率，让自己更自由。
 ---
 
 * content
