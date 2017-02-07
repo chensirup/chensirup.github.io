@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "你所羡慕的理想生活不过是「别人家」的"
-date:   2017-02-07 23：33：33
+date:   2017-02-07 23:33:33
 categories: 梦想
 tags: 梦想 现实
 author: 陈sir
