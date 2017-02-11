@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "改变自己，不要期望别人改变"
-date:   2017-02-09 23:33:33
+date:   2017-02-10 23:33:33
 categories: 改变
 tags: 改变 做自己
 author: 陈sir
