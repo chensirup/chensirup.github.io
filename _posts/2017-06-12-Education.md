@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "教育的更多投资是富裕的结果，而非致富的原因"
-date:   2017-06-10 23:33:33
+date:   2017-06-12 23:33:33
 categories: 学习
 tags: 学习 教育 投资
 author: 陈sir
